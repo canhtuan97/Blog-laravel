@@ -1,0 +1,23 @@
+Chức năng
+*Chức năng chung
+	-Tìm kiếm(gợi ý)
+	-Theo dõi
+	-Thông báo
+*Chức năng cho từng đối tượng
+	Admin:
+	+Quyền:1
+	+Chức năng:
+		-Xóa user
+		-Xóa bài viết
+		-Xóa comment
+		-Xóa video
+	User:
+	+Quyền:2
+	+Chức năng:
+		-Đăng bài viết
+		-Đặt câu hỏi
+		-Chỉnh thông tin cá nhân
+		-Thay đổi mật khẩu
+		-Xóa và sửa bài viết của mình
+		-Đăng video
+		-Follow
